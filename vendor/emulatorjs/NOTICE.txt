@@ -1,0 +1,1 @@
+Bundled EmulatorJS 4.2.3 and Genesis Plus GX from the existing local All Games project. Gambatte legacy core from https://cdn.emulatorjs.org/stable/data/cores/gambatte-legacy-wasm.data . Source: https://github.com/libretro/gambatte-libretro . All game data supplied by the user. No runtime CDN fetch is needed.
